@@ -11,7 +11,7 @@ websiteUrl = "https://github.com/nbusseneau/ColoredFoodUI"
 containsNsfwContent = false
 
 [package.dependencies]
-denikson-BepInExPack_Valheim = "5.4.2202"
+denikson-BepInExPack_Valheim = "5.4.2351"
 
 
 [build]
@@ -33,4 +33,4 @@ repository = "https://thunderstore.io"
 communities = [ "valheim", ]
 
 [publish.categories]
-valheim = [ "client-side", "mods", "skins", "utility", "bog-witch-update", ]
+valheim = [ "client-side", "mods", "skins", "utility", "deep-north-update", ]
