@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-10-04
+
 ### Changed
 
 - Support for 1.0 (Deep North).
@@ -44,7 +46,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial version.
 
-[unreleased]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.2.1...HEAD
+[unreleased]: https://github.com/nbusseneau/ColoredFoodUI/compare/1.0.0...HEAD
+[1.0.0]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.2.1...1.0.0
 [0.2.1]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.2.0...0.2.1
 [0.2.0]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.1...0.2.0
 [0.1.1]: https://github.com/nbusseneau/ColoredFoodUI/compare/0.1.0...0.1.1
